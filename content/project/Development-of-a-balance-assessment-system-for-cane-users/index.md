@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Development of a Balance Assessment System for Cane Users"
+title: "Development of a Real Time Balance Assessment System for Cane Users"
 summary: ""
 authors: []
 subtitle: "Doctoral Thesis at Human-Function Substitution Systems Lab, Kyushu Institute of Technology (Japan)"
