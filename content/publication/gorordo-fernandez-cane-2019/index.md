@@ -19,8 +19,11 @@ url_slides: ''
 #   Otherwise, set `slides: ""`.
 slides: "gorordo-fernandez-cane-2019"
 
+url_code: https://github.com/ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2
+
 projects:
 - Development-of-a-balance-assessment-system-for-cane-users
 
 ---
 
+<iframe width="711" height="400" src="https://www.youtube.com/embed/vw18R34ikkE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

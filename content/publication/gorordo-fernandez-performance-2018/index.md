@@ -9,5 +9,7 @@ featured: true
 publication: "*The 6th Symposium on Applied Engineering and Sciences 2018 (SAES2018)*"
 tags: ["motion capture", "electromagnetic tracker", "optical tracker", "kinematics"]
 slides: gorordo-fernandez-performance-2018
+
+url_code: "https://github.com/ibaiGorordo/readRazerData"
 ---
 

@@ -16,6 +16,8 @@ links:
 
 url_poster: "poster - Lifetech 2020.pdf"
 
+url_code: "https://github.com/ibaiGorordo/shoeDetection"
+
 doi: "10.1109/LifeTech48969.2020.1570618965"
 
 projects:
