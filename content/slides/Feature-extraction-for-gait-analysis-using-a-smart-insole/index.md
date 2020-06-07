@@ -4,7 +4,7 @@
 title: "Feature Extraction for Gait Analysis Using a Smart Insole"
 summary: ""
 authors: [""]
-tags: ["inertial sensor", "gait analysis", "wearable sensors"]
+tags: []
 categories: []
 date: 2020-06-07T20:01:19+09:00
 slides:
