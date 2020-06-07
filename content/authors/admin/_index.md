@@ -13,7 +13,7 @@ role = "Doctoral student in Biomedical Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Human-Function Substitution Systems Laboratory, Kyushu Institute of Technology", url = "http://www.brain.kyutech.ac.jp/~wada/index.html" } ]
+organizations = [ { name = "Human-Function Substitution Systems Laboratory, Kyushu Institute of Technology", url = "http://www.brain.kyutech.ac.jp/~wada/en/index.html" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include Wearable sensors, Biomedical Signal Processing and Machine Learning."
@@ -48,6 +48,16 @@ interests = [
   course = "Licentiate degree in Industrial Engineering"
   institution = "University of the Basque Country (Spain)"
   year = 2015
+
+[[education.courses]]
+  course = "Exchange student at COLABS program"
+  institution = "Tohoku University (Japan)"
+  year = 2015
+
+[[education.courses]]
+  course = "Exchange student"
+  institution = "Aalto University (Finland)"
+  year = 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

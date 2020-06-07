@@ -4,9 +4,19 @@
 title: "Development of a Balance Assessment System for Cane Users"
 summary: ""
 authors: []
+subtitle: "Doctoral Thesis at Human-Function Substitution Systems Lab, Kyushu Institute of Technology (Japan)"
+
+
 tags: ["balance analysis", "millimeter wave radar", "base of support", "assistive devices", "cane","inertial sensor","deep learning", "edge computing", "object detection", "inertial sensor"]
+
+links:
+- name: Laboratory website
+  url: http://www.brain.kyutech.ac.jp/~wada/en/index.html
+
 categories: []
 date: 2020-06-07T18:13:13+09:00
+
+weight: 10
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +26,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "smart"
   preview_only: false
 
 # Custom links (optional).
