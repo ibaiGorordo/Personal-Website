@@ -5,7 +5,7 @@ title: "Laryngeal Motion Measurement During Swallowing Usings a PVDF Sensor"
 subtitle: "COLABS program research at Medical Welfare Engineering Laboratory, Tohoku University (Japan)"
 summary: ""
 authors: []
-tags: []
+tags: ["PVDF sensor","dysphagia","larynx motion"]
 categories: []
 date: 2020-06-07T20:31:59+09:00
 
