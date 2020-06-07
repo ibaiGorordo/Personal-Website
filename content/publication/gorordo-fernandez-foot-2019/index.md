@@ -10,6 +10,8 @@ publication: "*7th International Symposium on Applied Engineering and Sciences (
 tags: ["balance analysis", "millimeter wave radar", "foot placement", "falls"]
 
 slides: "gorordo-fernandez-foot-2019"
+projects:
+- Development-of-a-balance-assessment-system-for-cane-users
 
 ---
 

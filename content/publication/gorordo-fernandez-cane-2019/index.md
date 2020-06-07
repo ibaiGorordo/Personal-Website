@@ -19,5 +19,8 @@ url_slides: ''
 #   Otherwise, set `slides: ""`.
 slides: "gorordo-fernandez-cane-2019"
 
+projects:
+- Development-of-a-balance-assessment-system-for-cane-users
+
 ---
 

@@ -17,5 +17,8 @@ links:
 url_poster: "poster - Lifetech 2020.pdf"
 
 doi: "10.1109/LifeTech48969.2020.1570618965"
+
+projects:
+- Development-of-a-balance-assessment-system-for-cane-users
 ---
 

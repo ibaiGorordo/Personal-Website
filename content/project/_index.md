@@ -1,11 +1,12 @@
 ---
-title: Posts
+title: Projects
 
-# View.
+# Toggle between the various page layout types.
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 3
+#   5 = Showcase
+view: 5
 
 # Optional header image (relative to `static/img/` folder).
 header:
