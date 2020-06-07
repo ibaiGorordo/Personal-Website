@@ -10,7 +10,7 @@ subtitle: "Doctoral Thesis at Human-Function Substitution Systems Lab, Kyushu In
 tags: ["balance analysis", "millimeter wave radar", "base of support", "assistive devices", "cane","inertial sensor","deep learning", "edge computing", "object detection", "inertial sensor"]
 
 links:
-- name: Laboratory website
+- name: Human-Function Substitution Systems Lab website
   url: http://www.brain.kyutech.ac.jp/~wada/en/index.html
 
 categories: []
