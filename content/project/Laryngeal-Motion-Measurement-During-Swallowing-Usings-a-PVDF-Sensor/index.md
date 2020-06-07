@@ -29,7 +29,7 @@ image:
 #   icon: twitter
 
 links:
-- name: Laboratory website
+- name: Medical Welfare Engineering Lab
   url: http://rose.mech.tohoku.ac.jp/index.html
 
 url_code: ""

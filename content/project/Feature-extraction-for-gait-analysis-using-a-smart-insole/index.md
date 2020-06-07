@@ -9,7 +9,7 @@ categories: []
 date: 2020-06-07T19:34:09+09:00
 
 links:
-- name: Laboratory website
+- name: Human OpenWare Research Lab
   url: http://howlab.unizar.es/?lang=en
 
 weight: 20
