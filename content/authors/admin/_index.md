@@ -102,4 +102,4 @@ I am a doctoral student at the Human-Function Substitution Systems Laboratory at
 
 Because of this, I am currently a doctoral student in "Life Science and Systems Engineering" at the Kyushu Institute of Technology (Japan) where I am researching on the development of a sensor system for balance analysis in daily life for the elderly.
 
-In my daily work, I use mostly MATLAB and Python for data analysis and Machine Learning. I have experience using various sensors such as inertial sensors and millimeter Wave radars among others. Because of this, I am interested in sensor fusion, signal processing and Deep Learning.
+In my daily work, I use mostly MATLAB and Python for data analysis and Machine Learning. I have experience using various sensors such as inertial sensors and millimeter Wave radars among others. For this reason, I have also experience with sensor fusion, signal processing and Deep Learning techniques.
