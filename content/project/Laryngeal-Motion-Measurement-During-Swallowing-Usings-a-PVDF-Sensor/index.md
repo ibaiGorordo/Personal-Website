@@ -9,6 +9,8 @@ tags: ["PVDF sensor","dysphagia","larynx motion"]
 categories: []
 date: 2020-06-07T20:31:59+09:00
 
+weight: 30
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

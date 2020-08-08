@@ -9,6 +9,8 @@ tags: ["deep learning","edge computing","assistive devices","object detection","
 categories: []
 date: 2020-08-08T22:24:20+09:00
 
+weight: 1
+
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/ibaiGorordo/Social-Distance-Feedback"
 
