@@ -7,12 +7,19 @@ summary: ""
 authors: []
 tags: ["deep learning","edge computing","assistive devices","object detection","visually impaired","depth estimation"]
 categories: []
+
+links:
+- name: Project's GitHub Repository
+  url: https://github.com/ibaiGorordo/Social-Distance-Feedback
+
+
+
 date: 2020-08-08T22:24:20+09:00
 
 weight: 1
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ibaiGorordo/Social-Distance-Feedback"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
